@@ -16,6 +16,7 @@ import java.util.Iterator;
 public class Test3 {
     public static void main(String[] args) throws Exception{
         CalaisClient client = new CalaisRestClient("ksgda5hzzy6wz8xtcunjjsn5");
+
         CalaisConfig config = new CalaisConfig();
 //        config.set(CalaisConfig.ConnParam.CONNECT_TIMEOUT, null);
 //        config.set(CalaisConfig.ConnParam.READ_TIMEOUT, null);
@@ -37,6 +38,7 @@ public class Test3 {
 //        System.out.println(object.toString());
 
 //
+
 
         for (CalaisObject entity : response.getEntities()) {
 //            System.out.println(entity.toString());

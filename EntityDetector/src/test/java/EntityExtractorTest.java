@@ -1,6 +1,6 @@
-import Calais.Entity;
-import Driver.EntityExtractor;
-import Driver.OpenCalaisConfiguration;
+import com.Calais.Entity;
+import com.Driver.EntityExtractor;
+import com.Driver.OpenCalaisConfiguration;
 import org.junit.Before;
 import org.junit.Test;
 

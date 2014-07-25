@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EntityDectector.iml" filepath="$PROJECT_DIR$/EntityDectector.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OpenCalais/OpenCalais.iml" filepath="$PROJECT_DIR$/OpenCalais/OpenCalais.iml" />
     </modules>
   </component>
 </project>

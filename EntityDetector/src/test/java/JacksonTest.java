@@ -1,5 +1,5 @@
-import Data_objects_OLD.Entity;
-import Data_objects_OLD.NameEntity;
+import com.Data_objects_OLD.Entity;
+import com.Data_objects_OLD.NameEntity;
 import org.apache.commons.lang.StringUtils;
 import org.codehaus.jackson.map.ObjectMapper;
 import org.junit.Before;
